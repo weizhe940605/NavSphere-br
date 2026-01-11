@@ -16,25 +16,7 @@
           "enabled": true
         }
       ],
-      "subCategories": [
-        {
-          "id": "dbefcd0f-34bd-4af9-9981-cf05ac80d56b",
-          "title": "导航",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "item-1768097402951",
-              "enabled": true,
-              "title": "导航站",
-              "href": "https://dh.honghaier007.eu.org/",
-              "description": "个人导航站，整理和分享您喜爱的网站链接",
-              "icon": "/assets/favicon_1768097335820.svg"
-            }
-          ]
-        }
-      ]
+      "subCategories": []
     },
     {
       "id": "1",
