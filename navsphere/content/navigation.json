@@ -38,6 +38,14 @@
           "href": "https://link3.cc/tuostudy",
           "description": "点击下方链接进入最新地址！",
           "icon": "/assets/favicon_1768098414625.ico"
+        },
+        {
+          "id": "item-1768098489425",
+          "enabled": true,
+          "title": "柒夜导航 - 黑科技网站资源集",
+          "href": "https://nav.qinight.com/",
+          "description": "柒夜导航是一个专注于在线网站资源索引的导航网站，汇聚了很多日常使用的黑科技网站利器，提高我们的上网体验！",
+          "icon": "/assets/favicon_1768098426218.ico"
         }
       ],
       "subCategories": []
