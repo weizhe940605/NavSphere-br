@@ -7,7 +7,16 @@
       "description": "自用的",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "f28056f7-896f-430b-8bbc-51f2ff58283d",
+          "title": "导航",
+          "icon": "Home",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
