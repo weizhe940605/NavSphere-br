@@ -30,6 +30,14 @@
           "href": "https://nav.eooce.com/",
           "description": "个人导航页面，提供常用网站链接和工具集合，让您快速访问常用资源",
           "icon": "/assets/favicon_1768098394639.png"
+        },
+        {
+          "id": "item-1768098478560",
+          "enabled": true,
+          "title": "图欧学习资源库永久发布页 | Link3",
+          "href": "https://link3.cc/tuostudy",
+          "description": "点击下方链接进入最新地址！",
+          "icon": "/assets/favicon_1768098414625.ico"
         }
       ],
       "subCategories": []
