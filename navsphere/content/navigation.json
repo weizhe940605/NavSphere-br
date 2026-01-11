@@ -6,7 +6,16 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1768097890880",
+          "title": "魏的导航",
+          "href": "https://nav.vercels.de5.net/",
+          "description": "根据大佬资源自建的自用导航站，仅限本人自用，如有不适，及时提醒，及时改进。Email:weizhe978@outlook.com",
+          "icon": "/assets/favicon_1768097867133.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "dbefcd0f-34bd-4af9-9981-cf05ac80d56b",
