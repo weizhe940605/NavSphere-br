@@ -1,33 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1768096960953",
-      "title": "我自用的",
-      "icon": "FolderKanban",
-      "description": "自用的",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "f28056f7-896f-430b-8bbc-51f2ff58283d",
-          "title": "导航",
-          "icon": "Home",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "item-1768097081873",
-              "enabled": true,
-              "title": "导航站",
-              "href": "https://dh.honghaier007.eu.org/",
-              "description": "个人导航站，整理和分享您喜爱的网站链接",
-              "icon": "/assets/favicon_1768097014999.svg"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -188,6 +161,33 @@
       "subCategories": [],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1768096960953",
+      "title": "我自用的",
+      "icon": "FolderKanban",
+      "description": "自用的",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "f28056f7-896f-430b-8bbc-51f2ff58283d",
+          "title": "导航",
+          "icon": "Home",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "item-1768097081873",
+              "enabled": true,
+              "title": "导航站",
+              "href": "https://dh.honghaier007.eu.org/",
+              "description": "个人导航站，整理和分享您喜爱的网站链接",
+              "icon": "/assets/favicon_1768097014999.svg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1761724945457",
