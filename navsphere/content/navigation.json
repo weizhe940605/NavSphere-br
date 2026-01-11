@@ -14,6 +14,14 @@
           "description": "根据大佬资源自建的自用导航站，仅限本人自用，如有不适，及时提醒，及时改进。Email:weizhe978@outlook.com",
           "icon": "/assets/favicon_1768097867133.png",
           "enabled": true
+        },
+        {
+          "id": "item-1768098133716",
+          "enabled": true,
+          "title": "导航站",
+          "href": "https://dh.honghaier007.eu.org/",
+          "description": "个人导航站，整理和分享您喜爱的网站链接",
+          "icon": "/assets/favicon_1768098068298.svg"
         }
       ],
       "subCategories": []
