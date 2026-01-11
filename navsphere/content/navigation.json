@@ -1567,7 +1567,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1768097402951",
+              "enabled": true,
+              "title": "导航站",
+              "href": "https://dh.honghaier007.eu.org/",
+              "description": "个人导航站，整理和分享您喜爱的网站链接",
+              "icon": "/assets/favicon_1768097335820.svg"
+            }
+          ]
         }
       ]
     }
