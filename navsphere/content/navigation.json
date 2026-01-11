@@ -22,6 +22,14 @@
           "href": "https://dh.honghaier007.eu.org/",
           "description": "个人导航站，整理和分享您喜爱的网站链接",
           "icon": "/assets/favicon_1768098068298.svg"
+        },
+        {
+          "id": "item-1768098458371",
+          "enabled": true,
+          "title": "老王导航-个人专属导航页-Navitem",
+          "href": "https://nav.eooce.com/",
+          "description": "个人导航页面，提供常用网站链接和工具集合，让您快速访问常用资源",
+          "icon": "/assets/favicon_1768098394639.png"
         }
       ],
       "subCategories": []
