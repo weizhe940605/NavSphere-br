@@ -1560,7 +1560,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "dbefcd0f-34bd-4af9-9981-cf05ac80d56b",
+          "title": "导航",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
