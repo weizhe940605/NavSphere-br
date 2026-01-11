@@ -1552,6 +1552,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1768097334919",
+      "title": "我自用的",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
